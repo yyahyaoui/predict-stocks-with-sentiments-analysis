@@ -1,4 +1,4 @@
-# predict-stocks-with-sentiments-analys
+# predict-stocks-with-sentiments-analysis
 Stock Price Prediction Using Sentiment Analysis and Historical Stock Data
 
 ## Setup
